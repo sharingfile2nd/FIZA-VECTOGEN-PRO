@@ -1,0 +1,6 @@
+{
+  "name": "FIZAVectogen - AI Vector Studio",
+  "description": "Professional Microstock Vector Studio powered by Gemini AI with high-precision SVG tracing up to 16MP+, batch queue, TrendHub, and automated Adobe Stock metadata export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
